@@ -5,4 +5,4 @@ Od teto chvile sem davam vsechna moje reseni ukolu ze seminare programovani prot
 
 ### Seznam (serazeny podle casu)
   [Radici algoritmus](razeni.cs)
-  [Unikatni cislo](UniqueNumber.cs)
+  <br>[Unikatni cislo](UniqueNumber.cs)
